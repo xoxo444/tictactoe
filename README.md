@@ -16,13 +16,5 @@ A simple two-player **Tic Tac Toe** game written in C, played directly in the te
 -The first player to get 3 in a row (horizontally, vertically, or diagonally) wins.
 -If the board fills with no winner, the game ends in a draw.
 
-Sample Board
- X | O |  
----|---|---
-   | X | O
----|---|---
-   |   | X
 
-
-Made with C by Jiya
 
